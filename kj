@@ -1,3 +1,4 @@
+//task3
 package ru.mirea.lab1;
 import java.util.Scanner;
 public class Example
@@ -17,6 +18,7 @@ public class Example
 }
 
 
+//task4
 package ru.mirea.lab1;
 import java.util.Scanner;
 public class Example1
@@ -62,6 +64,7 @@ public class Example1
 }
 
 
+//task5
 package ru.mirea.lab1;
 public class CommandLineArguments 
 {
@@ -81,6 +84,7 @@ public class CommandLineArguments
 }
 
 
+//task6
 package ru.mirea.lab1;
 public class HarmonicSeries 
 {
@@ -98,6 +102,7 @@ public class HarmonicSeries
 }
 
 
+//task7
 package ru.mirea.lab1;
 public class FactorialCalculator 
 {
